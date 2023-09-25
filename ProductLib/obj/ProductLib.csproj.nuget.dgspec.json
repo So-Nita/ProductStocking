@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/productlib/ProductLib.csproj": {}
+    "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/ProductLib/ProductLib.csproj": {}
   },
   "projects": {
-    "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/productlib/ProductLib.csproj": {
+    "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/ProductLib/ProductLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/productlib/ProductLib.csproj",
+        "projectUniqueName": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/ProductLib/ProductLib.csproj",
         "projectName": "ProductLib",
-        "projectPath": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/productlib/ProductLib.csproj",
+        "projectPath": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/ProductLib/ProductLib.csproj",
         "packagesPath": "/Users/borinsonita/.nuget/packages/",
-        "outputPath": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/productlib/obj/",
+        "outputPath": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/ProductLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/borinsonita/.nuget/NuGet/NuGet.Config"

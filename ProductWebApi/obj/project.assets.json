@@ -3144,7 +3144,7 @@
     "ProductLib/1.0.0": {
       "type": "project",
       "path": "../productlib/ProductLib.csproj",
-      "msbuildProject": "../productlib/ProductLib.csproj"
+      "msbuildProject": "../ProductLib/ProductLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3179,8 +3179,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/productlib/ProductLib.csproj": {
-              "projectPath": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/productlib/ProductLib.csproj"
+            "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/ProductLib/ProductLib.csproj": {
+              "projectPath": "/Users/borinsonita/Personal/RUPP/OOAD/ProductStocking/ProductLib/ProductLib.csproj"
             }
           }
         }
